@@ -10,6 +10,7 @@ sidebar: false
 Hi. I'm tsutoringo ;) <br>
 I'm weak programmer. <br>
 I wish you would know me.<br>
+I'm not Kusoringo!<br>
 
 ## My skills
 ### Knowledge languages
